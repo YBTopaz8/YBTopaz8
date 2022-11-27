@@ -15,5 +15,5 @@ I model and build desktop apps with C# as well as Websites with ASP.NET, or Djan
 - C# Mobile Development with .NET MAUI
 - Python's Django Web programming
 - Php programming
-- MySQL, SQLServer and T-SQL management 
+- MySQL, SQLServer
 - NoSQL Programmning 
