@@ -9,6 +9,8 @@ Software programming in various OOP languages is what passions me.
 
 I model and build desktop apps with C# as well as Websites with ASP.NET, or Django or PhP.
 
+## I Work A Lot with .NET MAUI in my Free Time😄
+
 ## 🛠 Skills
 - C# .NET desktop programming with .NET Framework & Core AND .NET MAUI
 - C# ASP.NET Core MVC programming with Entity Framework 
