@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I am Currently an MSc graduate Software Engineer, proficient in System Analysis and Design. 
+I am Currently an MSc graduate Software Programmer, proficient in System Analysis and Design. 
 
 Software programming in various OOP languages is what passions me.
 
