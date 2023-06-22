@@ -7,7 +7,7 @@ I am Currently an MSc graduate Software Engineer, proficient in System Analysis 
 
 Software programming in various OOP languages is what passions me.
 
-I model and build desktop apps with C# as well as Websites with ASP.NET, or Django or PhP.
+I model and build desktop apps with C# as well as Websites with ASP.NET, or Django.
 
 ## I Work A Lot with .NET MAUI in my Free Time😄
 
