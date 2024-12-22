@@ -3,18 +3,18 @@
 
 ## 🚀 About Me
 
-I am Currently an MSc graduate Software Programmer, proficient in System Analysis and Design. 
+I am Currently an 2nd MSc graduate Software Programmer, proficient in System Analysis and Design. 
 
-Software programming in various OOP languages is what passions me.
+Software programming in various OOP languages (But C# ❤️ ) 
 
-I model and build desktop apps with C# as well as Websites with ASP.NET, or Django.
+I model and build crossplatform apps with C# with .NET MAUI and Blazor MAUI
 
 ## I Work A Lot with .NET MAUI in my Free Time😄
 
 ## 🛠 Skills
+- C# Cross Platform Development with .NET MAUI
 - C# .NET desktop programming with .NET Framework & Core AND .NET MAUI
 - C# ASP.NET Core MVC programming with Entity Framework 
-- C# Mobile Development with .NET MAUI
 - Python's Django Web programming
 - Php programming
 - MySQL, SQLServer
