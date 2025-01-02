@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I am Currently an 2nd MSc graduate Software Programmer, proficient in System Analysis and Design. 
+I am Currently a 2nd MSc graduate Software Programmer, proficient in System Analysis and Design. 
 
 Software programming in various OOP languages (But C# ❤️ ) 
 
