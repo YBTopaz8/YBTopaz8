@@ -5,7 +5,7 @@
 
 I am Currently a 2nd MSc graduate Software Programmer, proficient in System Analysis and Design. 
 
-Software programming in various OOP languages (But C# ❤️ ) 
+Software programming in various OOP languages (But C# is .. ❤️ ) 
 
 I model and build crossplatform apps with C# with .NET MAUI and Blazor MAUI
 
